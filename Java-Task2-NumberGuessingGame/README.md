@@ -22,4 +22,4 @@ javac NumberGuessingGame.java && java NumberGuessingGame
 - `NumberGuessingGame.java`
 
 ## Author
-Laura Bailie — OIBSIP Java Development Track
+Laura Bailie - OIBSIP Java Development Track

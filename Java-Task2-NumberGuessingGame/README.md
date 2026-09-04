@@ -3,6 +3,9 @@
 Java Swing GUI game where the player guesses a system-generated
 random number within a limited number of attempts.
 
+## Demo
+[Demo](https://www.linkedin.com/feed/update/urn:li:activity:7496631762974883840/)
+
 ## Tech Stack
 Java, Swing
 

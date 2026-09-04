@@ -31,5 +31,5 @@ See the individual README in each folder for exact run instructions, demo
 credentials, and feature notes.
 
 ## About Me
-Laura Bailie — BSc IT graduate, building toward a backend/software developer
+Laura Bailie - BSc IT graduate, building toward a backend/software developer
 role. [LinkedIn](https://www.linkedin.com/in/laura-bailie-2167b820b/) · [GitHub](https://github.com/LauraBailie/)

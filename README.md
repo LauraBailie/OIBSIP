@@ -1,4 +1,4 @@
-# OIBSIP — Java Development Track
+# OIBSIP - Java Development Track
 
 Java projects completed for the Oasis Infobyte Summer Internship Program
 (Aug–Sep 2026). Each folder is a standalone, self-contained Java project with

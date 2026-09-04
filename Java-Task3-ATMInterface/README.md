@@ -2,6 +2,9 @@
 
 A console-based ATM simulation built in Java as part of the Oasis Infobyte Java Development internship (Task 3).
 
+## Demo
+[Post On LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7501519468884566016/)
+
 ## Objective
 
 Simulate the core functions of an ATM: user authentication, withdrawals, deposits, transfers, and transaction history — all handled through a simple menu-driven console app.

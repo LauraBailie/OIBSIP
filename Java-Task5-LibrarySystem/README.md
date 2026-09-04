@@ -3,6 +3,9 @@
 Java Swing app for managing a book catalogue, issuing/returning books, and
 tracking overdue fines.
 
+## Demo
+[Post On LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7501715474003619840/)
+
 ## Tech Stack
 Java (core), Swing (GUI)
 
